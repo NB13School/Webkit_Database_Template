@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(42, 41, 41);
+}
+
+#data_search {
+    position: absolute;
+    left:30%;
+    
+    background-color: transparent;
+    height: 50px;
+    width: 500px;
+    color: #ffffff;
+    font-size: 1.5em;
+    border-color: #b8b5b5;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#data_search:hover {
+    background-color: rgb(84, 84, 84);
+    text-align: center;
+}
+
+#results {
+    position: absolute;
+    left:30%;
+    top: 20%;
+    color: white;
+}
+
+#datasearch_button {
+    position: absolute;
+    left: 30%;
+    top: 11%;
+
+    background-color: transparent;
+    height: 50px;
+    width: 507px;
+    color: #ffffff;
+    font-size: 1.5em;
+    border-color: #b8b5b5;
+    border-style: solid;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#datasearch_button:hover {
+    background-color: rgb(84, 84, 84);
+}
